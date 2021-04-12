@@ -1,0 +1,6 @@
+1. Create connection with our server (main)
+2. Create a shell function (wait for incoming command and iterate over options)
+3. Auto start program when machine is rebooted
+4. Start another program
+5. Navigating through different directories
+6. Implementing keylogger to our backdoor
