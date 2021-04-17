@@ -30,7 +30,16 @@ int main()
 
     // Step 7: print the the number associated with index 13
     // CODE GOES HERE
+    
 
+    /* Output
+    6843
+    45
+    5
+    2
+    354
+    67
+    */
     return 0;
 
 
