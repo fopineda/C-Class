@@ -15,11 +15,13 @@ int main()
     printf("Enters two numbers: ");
     scanf("%d %d",&n1,&n2);
 
-    // Step 3: Create the function caller (AKA call the function)
+    // Step 3: Create the function caller (AKA call the function) and set it the variable sum
     // CODE GOES HERE
     sum = addNumbers(n1, n2);        // function call
-    printf("sum = %d\n",sum);
 
+
+    // Do not touch
+    printf("sum = %d\n",sum);
     return 0;
 }
 

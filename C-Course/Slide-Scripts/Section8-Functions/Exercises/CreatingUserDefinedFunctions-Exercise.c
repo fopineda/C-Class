@@ -5,8 +5,7 @@
 
 
 // Step 1: Create the function prototype
-// CODE GOES HERE
-int addNumbers(int a, int b);         
+// CODE GOES HERE       
 
 int main()
 {
@@ -16,22 +15,18 @@ int main()
     printf("Enters two numbers: ");
     scanf("%d %d",&n1,&n2);
 
-    // Step 3: Create the function caller (AKA call the function)
-    // CODE GOES HERE
-    sum = addNumbers(n1, n2);  
-    printf("sum = %d\n",sum);
 
+
+    // Step 3: Create the function caller (AKA call the function) and set it to the variable sum
+    sum = // CODE GOES HERE
+
+    // Do not touch
+    printf("sum = %d\n",sum);
     return 0;
 }
 
 // Step 2: Create the function definition
 // CODE GOES HERE
-int addNumbers(int a, int b)            
-{
-    int result;
-    result = a+b;
-    return result;                  
-}
 
 
 /* Ex Output
