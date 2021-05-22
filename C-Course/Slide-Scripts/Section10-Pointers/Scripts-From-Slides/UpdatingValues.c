@@ -9,7 +9,10 @@ int main()
 
     ptrNumber = &number;
 
+    &number = 10;
+
     printf("number = %d \n", number);
+    printf("ptrNumber = %p \n", &ptrNumber);
     printf("ptrNumber = %p \n", ptrNumber);
     printf("*ptrNumber = %d \n", *ptrNumber);    
     
